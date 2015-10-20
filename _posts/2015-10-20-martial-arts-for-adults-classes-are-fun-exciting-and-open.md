@@ -1,18 +1,24 @@
 ---
+inFeed: true
+hasPage: false
+inNav: false
+isBasedOnUrl: 'http://coloradoninjutsu.com/'
+inLanguage: null
+starred: true
+keywords: []
 description: 'Martial Arts For Adults Classes are fun, exciting, and open to anyone with the desire to learn. Our Dojo is also one of the few places in the world where you ca'
+datePublished: '2015-10-20T05:17:10.615Z'
+dateModified: '2015-10-20T05:16:57.705Z'
 author: []
-datePublished: '2015-10-20T05:15:04.081Z'
-publisher:
-  domain: coloradoninjutsu.com
-  name: coloradoninjutsu.com
 title: ''
-dateModified: '2015-10-20T05:14:39.703Z'
 sourcePath: _posts/2015-10-20-martial-arts-for-adults-classes-are-fun-exciting-and-open.md
 published: true
-inFeed: true
-hasPage: true
-inNav: false
-url: martial-arts-for-adults-classes-are-fun-exciting-and-open/index.html
+authors: []
+publisher:
+  name: coloradoninjutsu.com
+  domain: coloradoninjutsu.com
+  url: null
+  favicon: null
 _context: 'http://schema.org'
 _type: Article
 
