@@ -1,6 +1,6 @@
 name: Ninja-Dojo
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.42474913224577904
 cta:
   domain: null
   bucket: null
@@ -23,3 +23,4 @@ purpose:
   - name: sign-ups
     item: null
     url: null
+typography_spectrum: 0.18359974771738052
