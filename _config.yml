@@ -1,26 +1,14 @@
-name: Ninja-Dojo
-favicon: null
-layout_spectrum: 0.14192
-typography_spectrum: 0.18359974771738052
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+analytics: {}
 color:
   brandColors: []
   brandStrength: 0.875
-  lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
+  lightness: 0.849662
+  rhythmicContrast: 0.193412
+  saturation: 0.205236
+cta: {}
+layout_spectrum: 0.938344
+name: Ninja-Dojo
+opengraph: {}
 purpose:
   - name: sign-ups
-    item: null
-    url: null
+typography_spectrum: 0.674831
